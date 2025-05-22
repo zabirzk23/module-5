@@ -244,6 +244,8 @@ int main() {
  ![Screenshot 2025-05-17 164151](https://github.com/user-attachments/assets/505764ff-c0ce-432c-912b-64aaeea3b60f)
 
 
+
+
 ## RESULT
 
 Thus the C program to calculate the total and average of student using structure has been executed successfully.
